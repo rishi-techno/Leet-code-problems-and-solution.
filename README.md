@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0009-palindrome-number) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1950-sign-of-the-product-of-an-array) |
 ## Array
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0169-majority-element) |
 | [1944-truncate-sentence](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1944-truncate-sentence) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1950-sign-of-the-product-of-an-array) |
 | [3582-find-indices-of-stable-mountains](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3582-find-indices-of-stable-mountains) |
 ## Binary Search
 |  |
