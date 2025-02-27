@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1950-sign-of-the-product-of-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3582-find-indices-of-stable-mountains](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3582-find-indices-of-stable-mountains) |
 ## Binary Search
 |  |
