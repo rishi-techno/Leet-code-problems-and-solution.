@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0009-palindrome-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1950-sign-of-the-product-of-an-array) |
+| [3055-maximum-odd-binary-number](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3055-maximum-odd-binary-number) |
 ## Array
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1970-sorting-the-sentence) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3055-maximum-odd-binary-number](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3055-maximum-odd-binary-number) |
 | [3312-number-of-changing-keys](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3312-number-of-changing-keys) |
 ## Stack
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+## Greedy
+|  |
+| ------- |
+| [3055-maximum-odd-binary-number](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3055-maximum-odd-binary-number) |
 <!---LeetCode Topics End-->
