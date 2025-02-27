@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1950-sign-of-the-product-of-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2727-number-of-senior-citizens](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2727-number-of-senior-citizens) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3582-find-indices-of-stable-mountains](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3582-find-indices-of-stable-mountains) |
 ## Binary Search
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1970-sorting-the-sentence) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2727-number-of-senior-citizens](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2727-number-of-senior-citizens) |
 | [3055-maximum-odd-binary-number](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3055-maximum-odd-binary-number) |
 | [3312-number-of-changing-keys](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3312-number-of-changing-keys) |
 ## Stack
