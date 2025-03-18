@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2634-minimum-common-value](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2634-minimum-common-value) |
 | [2727-number-of-senior-citizens](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2727-number-of-senior-citizens) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0349-intersection-of-two-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2634-minimum-common-value](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2634-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2502-sort-the-people) |
+| [2634-minimum-common-value](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3242-count-elements-with-maximum-frequency) |
 ## Tree
 |  |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0861-flipping-an-image) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2551-apply-operations-to-an-array) |
+| [2634-minimum-common-value](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2634-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
