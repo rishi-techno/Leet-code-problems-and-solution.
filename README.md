@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0861-flipping-an-image) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1468-check-if-n-and-its-double-exist) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1944-truncate-sentence](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1950-sign-of-the-product-of-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0349-intersection-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2634-minimum-common-value) |
 ## Hash Table
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0645-set-mismatch) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1468-check-if-n-and-its-double-exist) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0645-set-mismatch) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1468-check-if-n-and-its-double-exist) |
 | [1970-sorting-the-sentence](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1970-sorting-the-sentence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2502-sort-the-people) |
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0861-flipping-an-image) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1468-check-if-n-and-its-double-exist) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2634-minimum-common-value) |
