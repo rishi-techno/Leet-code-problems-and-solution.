@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1944-truncate-sentence](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1950-sign-of-the-product-of-an-array) |
+| [2058-concatenation-of-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2058-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0861-flipping-an-image) |
+| [2058-concatenation-of-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2551-apply-operations-to-an-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2551-apply-operations-to-an-array) |
