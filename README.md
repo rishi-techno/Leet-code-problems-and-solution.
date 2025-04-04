@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0283-move-zeroes) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0349-intersection-of-two-arrays) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0861-flipping-an-image) |
 ## Dynamic Programming
