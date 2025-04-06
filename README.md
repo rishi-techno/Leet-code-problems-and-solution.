@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0073-set-matrix-zeroes) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0283-move-zeroes) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1468-check-if-n-and-its-double-exist) |
