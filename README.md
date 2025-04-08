@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3311-ant-on-the-boundary](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3311-ant-on-the-boundary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3582-find-indices-of-stable-mountains) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Tree
 |  |
 | ------- |
