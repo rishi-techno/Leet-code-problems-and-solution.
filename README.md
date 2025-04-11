@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0283-move-zeroes) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0367-valid-perfect-square) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0349-intersection-of-two-arrays) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0811-number-of-subarrays-with-bounded-maximum) |
