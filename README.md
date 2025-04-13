@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2050-count-good-numbers) |
 | [2556-convert-the-temperature](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2556-convert-the-temperature) |
 | [3055-maximum-odd-binary-number](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3055-maximum-odd-binary-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -239,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0643-maximum-average-subarray-i) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
