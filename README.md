@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0073-set-matrix-zeroes) |
+| [0152-maximum-product-subarray](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0169-majority-element) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0152-maximum-product-subarray) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
