@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0367-valid-perfect-square) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1950-sign-of-the-product-of-an-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0861-flipping-an-image) |
 | [2058-concatenation-of-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2058-concatenation-of-array) |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0206-reverse-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
