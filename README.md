@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3055-maximum-odd-binary-number](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3055-maximum-odd-binary-number) |
 | [3312-number-of-changing-keys](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3312-number-of-changing-keys) |
+| [3468-find-the-encrypted-string](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3468-find-the-encrypted-string) |
 ## Stack
 |  |
 | ------- |
