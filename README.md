@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0367-valid-perfect-square) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0242-valid-anagram) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1341-split-a-string-in-balanced-strings) |
 | [1944-truncate-sentence](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1944-truncate-sentence) |
