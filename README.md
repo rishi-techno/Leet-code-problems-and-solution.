@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2634-minimum-common-value) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2698-find-the-array-concatenation-value](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2698-find-the-array-concatenation-value) |
 | [2727-number-of-senior-citizens](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2727-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2502-sort-the-people) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2727-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3055-maximum-odd-binary-number](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3055-maximum-odd-binary-number) |
