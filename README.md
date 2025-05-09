@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2698-find-the-array-concatenation-value](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2698-find-the-array-concatenation-value) |
 | [2727-number-of-senior-citizens](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2727-number-of-senior-citizens) |
+| [2902-max-pair-sum-in-an-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2902-max-pair-sum-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3044-minimum-operations-to-collect-elements) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2634-minimum-common-value) |
+| [2902-max-pair-sum-in-an-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2902-max-pair-sum-in-an-array) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3044-minimum-operations-to-collect-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3581-the-two-sneaky-numbers-of-digitville) |
