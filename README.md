@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0367-valid-perfect-square) |
+| [1370-count-number-of-nice-subarrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1448-maximum-69-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1950-sign-of-the-product-of-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0861-flipping-an-image](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0861-flipping-an-image) |
 | [0932-monotonic-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0932-monotonic-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1468-check-if-n-and-its-double-exist) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0645-set-mismatch) |
+| [1370-count-number-of-nice-subarrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1468-check-if-n-and-its-double-exist) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0724-find-pivot-index) |
+| [1370-count-number-of-nice-subarrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1370-count-number-of-nice-subarrays) |
 | [3311-ant-on-the-boundary](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3311-ant-on-the-boundary) |
 ## Enumeration
 |  |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0643-maximum-average-subarray-i) |
+| [1370-count-number-of-nice-subarrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1370-count-number-of-nice-subarrays) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Recursion
 |  |
