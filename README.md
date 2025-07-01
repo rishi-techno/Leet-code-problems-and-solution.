@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0160-intersection-of-two-linked-lists) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0349-intersection-of-two-arrays) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0125-valid-palindrome) |
