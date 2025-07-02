@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0035-search-insert-position) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0031-next-permutation) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0011-container-with-most-water) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2032-largest-odd-number-in-string) |
