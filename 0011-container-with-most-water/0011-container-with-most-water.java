@@ -7,9 +7,9 @@ class Solution {
             int w=right-left;
             int area=h*w;
             maxArea=Math.max(maxArea,area);
-            if(height[left]<height[right])
+            while(left <right && height[left] <= h)
               left++;
-              else 
+             while(left <right && height[right] <= h)
               right--;
 
         }
