@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0349-intersection-of-two-arrays) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0724-find-pivot-index) |
