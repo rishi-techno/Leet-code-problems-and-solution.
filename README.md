@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2556-convert-the-temperature) |
 | [3055-maximum-odd-binary-number](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3055-maximum-odd-binary-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2698-find-the-array-concatenation-value) |
 | [3311-ant-on-the-boundary](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3311-ant-on-the-boundary) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0861-flipping-an-image) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3044-minimum-operations-to-collect-elements) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
 | ------- |
