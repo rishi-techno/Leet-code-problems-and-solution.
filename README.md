@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0500-keyboard-row) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0152-maximum-product-subarray) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0197-rising-temperature) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
