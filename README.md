@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0349-intersection-of-two-arrays) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0234-palindrome-linked-list) |
 ## Number Theory
 |  |
 | ------- |
