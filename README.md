@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -346,5 +347,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
