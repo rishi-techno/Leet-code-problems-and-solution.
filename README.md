@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0131-palindrome-partitioning) |
