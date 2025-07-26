@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0197-rising-temperature) |
+| [1827-invalid-tweets](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1827-invalid-tweets) |
 ## Backtracking
 |  |
 | ------- |
