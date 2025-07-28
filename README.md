@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0566-reshape-the-matrix) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0861-flipping-an-image) |
 | [2058-concatenation-of-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2058-concatenation-of-array) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0861-flipping-an-image) |
 ## Dynamic Programming
