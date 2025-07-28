@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0500-keyboard-row) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1341-split-a-string-in-balanced-strings) |
 | [1944-truncate-sentence](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1944-truncate-sentence) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0392-is-subsequence) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0861-flipping-an-image](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0861-flipping-an-image) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1468-check-if-n-and-its-double-exist) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0392-is-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
