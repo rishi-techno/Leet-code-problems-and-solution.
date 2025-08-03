@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0152-maximum-product-subarray) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0209-minimum-size-subarray-sum) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0861-flipping-an-image) |
