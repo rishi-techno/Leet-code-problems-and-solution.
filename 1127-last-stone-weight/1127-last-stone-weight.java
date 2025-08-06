@@ -13,7 +13,7 @@ class Solution {
             int p2=pq.poll();
             pq.add(p1-p2);
           }
-         // if(pq.isEmpty()) return 0;
+          if(pq.isEmpty()) return 0;
           return pq.poll();
 
     }
