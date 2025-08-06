@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0861-flipping-an-image](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0861-flipping-an-image) |
 | [0932-monotonic-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0932-monotonic-array) |
+| [1127-last-stone-weight](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1127-last-stone-weight) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1468-check-if-n-and-its-double-exist) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0215-kth-largest-element-in-an-array) |
+| [1127-last-stone-weight](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
