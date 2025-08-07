@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0520-detect-capital) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1341-split-a-string-in-balanced-strings) |
 | [1797-goal-parser-interpretation](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1797-goal-parser-interpretation) |
 | [1944-truncate-sentence](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1944-truncate-sentence) |
