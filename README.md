@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0500-keyboard-row) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1341-split-a-string-in-balanced-strings) |
+| [1797-goal-parser-interpretation](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1797-goal-parser-interpretation) |
 | [1944-truncate-sentence](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1944-truncate-sentence) |
 | [1970-sorting-the-sentence](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/1970-sorting-the-sentence) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
