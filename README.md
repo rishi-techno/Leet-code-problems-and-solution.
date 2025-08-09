@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0367-valid-perfect-square) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0861-flipping-an-image) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3044-minimum-operations-to-collect-elements) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3600-find-the-k-th-character-in-string-game-i) |
