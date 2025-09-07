@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0739-daily-temperatures) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0861-flipping-an-image](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0861-flipping-an-image) |
 | [0932-monotonic-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0932-monotonic-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
@@ -438,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0200-number-of-islands) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
