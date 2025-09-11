@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2502-sort-the-people) |
+| [2887-sort-vowels-in-a-string](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2887-sort-vowels-in-a-string) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Counting
 |  |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2502-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2727-number-of-senior-citizens) |
+| [2887-sort-vowels-in-a-string](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3055-maximum-odd-binary-number](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3055-maximum-odd-binary-number) |
 | [3312-number-of-changing-keys](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/3312-number-of-changing-keys) |
