@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2634-minimum-common-value) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2694-find-the-maximum-divisibility-score](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2694-find-the-maximum-divisibility-score) |
 | [2698-find-the-array-concatenation-value](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2698-find-the-array-concatenation-value) |
 | [2727-number-of-senior-citizens](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2727-number-of-senior-citizens) |
 | [2902-max-pair-sum-in-an-array](https://github.com/rishi-techno/Leet-code-problems-and-solution./tree/master/2902-max-pair-sum-in-an-array) |
